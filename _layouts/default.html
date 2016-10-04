@@ -8,15 +8,23 @@
   <link rel="stylesheet" href="/css/main.css">
 </html>
 <body>
+  
   <div class="container">
+    
     <div class="header">
       <h2>e<span class="violet">.</span></h2>
       <h3>Rozumiesz wyłącznie to, co potrafisz wytłumaczyć.</h3>
     </div>
+    
+    {% include nav-main.html %}
+    
     <div>
       {{ content }}
     </div>
+  
     {% include footer.html %}
+  
   </div>
+  
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </body>
