@@ -44,3 +44,9 @@ a:hover, a:focus {
 	padding: 10px 0;
 	margin: 40px 0 0 0;
 }
+
+.footer p, .footer a {
+	color: #8e8e8e;
+	font-size: 12px;
+	font-weight: 300;
+}
