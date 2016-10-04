@@ -24,7 +24,7 @@ a:hover, a:focus {
 .header {
 	border-bottom: 1px solid #eeeeee;
 	padding: 0 0 10px 0;
-	margin: 0 0 40px 0;
+	margin: 0;
 }
 
 .header h2, .header h3 {
@@ -34,6 +34,17 @@ a:hover, a:focus {
 
 .header h3 {
 	font-size: 30px;	
+}
+
+.nav-main {
+	margin-bottom: 40px;
+	list-style: none;
+}
+
+.nav-main li a {
+	display: block;
+	padding: 5px;
+	text-align: center;
 }
 
 
