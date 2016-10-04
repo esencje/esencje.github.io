@@ -6,7 +6,7 @@ body, a, p, input, textarea, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h
 }
 
 a {
-	color:#9e0973;
+	color:#c70d85;
 	text-decoration: underline;
 	transition: 0.3s;
 }
@@ -30,6 +30,7 @@ a:hover, a:focus {
 .header h2, .header h3 {
 	font-family: "Marck Script";
 	font-size: 60px;
+	text-align: center
 }
 
 .header h3 {
@@ -41,10 +42,25 @@ a:hover, a:focus {
 	list-style: none;
 }
 
+.nav-main li:nth-child(1) {
+	padding: 0 2px 0 0;	
+}
+.nav-main li:nth-child(2) {
+	padding: 0 0 0 2px;	
+}
+
 .nav-main li a {
 	display: block;
 	padding: 5px;
 	text-align: center;
+	font-size: 23px;
+	text-decoration: none;
+	border-bottom: 1px solid #eeeeee;
+}
+
+.nav-main li a:hover {
+	background: #eee;
+	border-bottom: 1px solid #333;
 }
 
 
