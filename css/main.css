@@ -12,7 +12,7 @@ a {
 }
 
 a:hover, a:focus {
-	color:#aa0b0b;
+	color:#1fb391;
 	text-decoration: none;
 }
 
@@ -40,6 +40,7 @@ a:hover, a:focus {
 .nav-main {
 	margin-bottom: 40px;
 	list-style: none;
+	padding: 0 15px;
 }
 
 .nav-main li:nth-child(1) {
