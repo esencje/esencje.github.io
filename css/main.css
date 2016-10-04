@@ -35,10 +35,12 @@ a:hover, a:focus {
 	margin: 0;
 }
 
-.header h2, .header h3 {
+.header h2 a, .header h3 {
 	font-family: "Marck Script";
 	font-size: 60px;
-	text-align: center
+	text-align: center;
+	text-decoration: none;
+	color: #333;
 }
 
 .header h3 {
