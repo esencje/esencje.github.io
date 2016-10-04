@@ -16,6 +16,13 @@ a:hover, a:focus {
 	text-decoration: none;
 }
 
+
+.header {
+	border-bottom: 1px solid #eeeeee;
+	padding: 0 0 10px 0;
+	margin: 0 0 40px 0;
+}
+
 .header h2, .header h3 {
 	font-family: "Marck Script";
 	font-size: 60px;
@@ -23,4 +30,13 @@ a:hover, a:focus {
 
 .header h3 {
 	font-size: 30px;	
+}
+
+
+
+
+.footer {
+	border-bottom: 1px solid #eeeeee;
+	padding: 10px 0;
+	margin: 40px 0 0 0;
 }
