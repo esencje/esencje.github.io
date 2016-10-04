@@ -4,6 +4,8 @@ title: Jak myśleć efektywnie?
 permalink: /efektywne-myslenie/
 ---
 
-No hej!!!
+<div>
+### No hej!!!
+</div>
 
 {% include comments.html %}
