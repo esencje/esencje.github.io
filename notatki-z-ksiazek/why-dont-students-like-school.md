@@ -5,10 +5,11 @@ permalink: /notatki-z-ksiazek/why-dont-students-like-school/
 ---
 
 # Daniel T. Willingham - Why Don't Students Like School?
-<br>
+<br><br>
 Autor jest dyplomowanym na Harvardzie psychologiem, nauczycielem i badaczem z zakresu kognitywistyki w nauczaniu osób w szkołach średnich<br>
 [wiki: Kognitywistyka jest nauką multidyscyplinarną i interdyscyplinarną, znajduje się na pograniczu wielu dziedzin: psychologii poznawczej, neurobiologii,filozofii umysłu, sztucznej inteligencji, lingwistyki (lingwistyka kognitywna) oraz logiki i fizyki. Główne obszary badawcze w obrębie tej dziedziny to reprezentacja wiedzy, język, uczenie się, myślenie, percepcja, świadomość, podejmowanie decyzji oraz inteligencja (tzw. inteligencja kognitywna).]
-<br>
+
+<br><br><br><br>
 
 # Rozdział 1 - Dlaczego uczniowie nie lubią szkoły?
 
@@ -66,8 +67,8 @@ Podsumowując, udane myślenie zależy od tych czterech czynników:<br>
 3) procedur z pamięci długoterminowej<br>
 4) miejsca w pamięci roboczej
 
+<br><br><br><br>
 
-<br><br>
 ### Jakie to ma znaczenie dla pracy w klasie:
 
 Pamiętaj: Uczeń musi nieustannie doświadczać przyjemnego poczucia rozwiązywania problemu
@@ -97,7 +98,7 @@ Każdy nauczyciel w ciągu lekcji wielokrotnie straci uwagę uczniów, to jest n
 <b>Prowadź dziennik</b><br>
 To wszystko wymaga z Twojej strony wiele uwagi i spostrzeżeń - nawet jeśli wydaje Ci się, że poprowadziłeś idealne zajęcia, wszyscy byli ciągle zaangażowani, teraz już wiesz jak to robić i tego dnia nigdy nie zapomnisz - to bzdura, zapisz te rzeczy i wróć do notatek po pewnym czasie, inaczej bez wątpienia pomiesza Ci się to. Spisywanie sobie, które ćwiczenia z danego materiału przygotowałeś tak, aby były odpowiednio angażujące dla klasy, powinno być dla Ciebie nawykiem.
 
-<br><br>
+<br><br><br><br>
 
 ### Bibliografia
 
