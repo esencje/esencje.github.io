@@ -31,7 +31,7 @@ Mózg unika myślenia za wszelką cenę, dlatego tak szybko uczymy się zadań, 
 Pomimo, że jest to tak trudne, przy spełnieniu określonych warunków lubimy myśleć, jesteśmy naturalnie ciekawskimi stworzeniami.
 
 Rozwiązanie problemu (czyli osiągnięcie sukcesu), obojętne czy chodzi o zrozumienie czegoś, zaplanowanie czegoś czy wymyślenie jakiegoś pomysłu, jest dla ludzi przyjemne, wydzielana jest wtedy dopamina, czujemy się nagrodzeni samym faktem dokonania czegoś.<br>
-Należy zwrócić tutaj uwagę między rozwiązywaniem zadania a zmaganiem się z zadaniem - jeśli nie widzimy, że osiągamy progres, wtedy szybko zadanie staje się frustrujące.<br>
+Należy zwrócić tutaj uwagę na różnicę między rozwiązywaniem zadania a zmaganiem się z zadaniem - jeśli nie widzimy, że osiągamy progres, wtedy szybko zadanie staje się frustrujące.<br>
 Nie czujemy przyjemności również wtedy, kiedy ktoś nam da odpowiedź albo daje zbyt mocne podpowiedzi, tzn musimy czuć, że samodzielnie rozwiązaliśmy zadanie z ew. maleńkim nakierowaniem.
 
 Dlaczego ludzie lubią rozwiązywać np krzyżówki, ale nie problemy algebraiczne? Dlaczego wolą przeczytać biografię Bono od kogoś mniej znanego?<br>
