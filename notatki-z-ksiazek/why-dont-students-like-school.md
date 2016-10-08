@@ -1,3 +1,9 @@
+---
+layout: default
+title: Notatki z Why Don't Students Like School?
+permalink: /notatki-z-ksiazek/why-dont-students-like-school/
+---
+
 Autor jest dyplomowanym na Harvardzie psychologiem, nauczycielem i badaczem z zakresu kognitywistyki w nauczaniu osób w szkołach średnich [wiki: Kognitywistyka jest nauką multidyscyplinarną i interdyscyplinarną, znajduje się na pograniczu wielu dziedzin: psychologii poznawczej, neurobiologii,filozofii umysłu, sztucznej inteligencji, lingwistyki (lingwistyka kognitywna) oraz logiki i fizyki. Główne obszary badawcze w obrębie tej dziedziny to reprezentacja wiedzy, język, uczenie się, myślenie, percepcja, świadomość, podejmowanie decyzji oraz inteligencja (tzw. inteligencja kognitywna).]
 
 
