@@ -4,10 +4,9 @@ title: Notatki z Why Don't Students Like School?
 permalink: /notatki-z-ksiazek/why-dont-students-like-school-1/
 ---
 
-# Daniel T. Willingham - Why Don't Students Like School?
-<br><br>
+# Daniel T. Willingham - Why Don’t Students Like School?
 <a href="/notatki-z-ksiazek/why-dont-students-like-school/">« powrót do spisu treści</a>
-<br><br>
+<br>
 
 # Rozdział 1 - Dlaczego uczniowie nie lubią szkoły?
 
@@ -65,7 +64,7 @@ Podsumowując, udane myślenie zależy od tych czterech czynników:<br>
 3) procedur z pamięci długoterminowej<br>
 4) miejsca w pamięci roboczej
 
-<br><br><br><br>
+<br><br><br>
 
 ### Jakie to ma znaczenie dla pracy w klasie:
 
@@ -96,7 +95,7 @@ Każdy nauczyciel w ciągu lekcji wielokrotnie straci uwagę uczniów, to jest n
 <b>Prowadź dziennik</b><br>
 To wszystko wymaga z Twojej strony wiele uwagi i spostrzeżeń - nawet jeśli wydaje Ci się, że poprowadziłeś idealne zajęcia, wszyscy byli ciągle zaangażowani, teraz już wiesz jak to robić i tego dnia nigdy nie zapomnisz - to bzdura, zapisz te rzeczy i wróć do notatek po pewnym czasie, inaczej bez wątpienia pomiesza Ci się to. Spisywanie sobie, które ćwiczenia z danego materiału przygotowałeś tak, aby były odpowiednio angażujące dla klasy, powinno być dla Ciebie nawykiem.
 
-<br><br><br><br>
+<br><br><br>
 
 ### Bibliografia
 
