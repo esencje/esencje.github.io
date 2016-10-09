@@ -35,6 +35,10 @@ a:hover, a:focus {
 	color:#9e0973;
 }
 
+.main-container {
+	margin-bottom: 40px;
+}
+
 
 .header {
 	border-bottom: 1px solid #eeeeee;
