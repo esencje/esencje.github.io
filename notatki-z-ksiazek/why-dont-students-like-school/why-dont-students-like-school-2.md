@@ -4,10 +4,9 @@ title: Notatki z Why Don't Students Like School?
 permalink: /notatki-z-ksiazek/why-dont-students-like-school-2/
 ---
 
-# Daniel T. Willingham - Why Don't Students Like School?
-<br><br>
+# Daniel T. Willingham - Why Don’t Students Like School?
 <a href="/notatki-z-ksiazek/why-dont-students-like-school/">« powrót do spisu treści</a>
-<br><br>
+<br>
 
 # Rozdział 2 - Jak mam uczyć potrzebnych umiejętności, kiedy standaryzowane testy wymagają tylko faktów?
 
@@ -25,7 +24,7 @@ Einstein był w błędzie, kiedy mówił "Wyobraźnia jest ważniejsza od wiedzy
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 ### Jakie to ma znaczenie dla pracy w klasie:
 
@@ -42,7 +41,7 @@ Nie możesz podawać listy niepowiązanych faktów, nic im to nie da a jeszcze d
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 ### Bibliografia
 
