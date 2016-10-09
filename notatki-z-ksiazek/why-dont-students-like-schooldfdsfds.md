@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Notatki z Why Don't Students Like School?
-permalink: /notatki-z-ksiazek/why-dont-students-like-school/
+permalink: /notatki-z-ksiazek/why-dont-students-like-school32321321/
 ---
 
 # Daniel T. Willingham - Why Don't Students Like School?
