@@ -92,10 +92,20 @@ a:hover, a:focus {
 
 
 
+@media (min-width: 992px) {
+	
+	.content {
+		margin: 40px 80px 0 80px;
+		border-left: 6px solid #eee;
+		padding-left: 30px;
+	}
+
+}
+
 @media (min-width: 1200px) {
 	
 	.content {
-		margin: 0 100px;
+		margin: 40px 180px 0 180px;
 	}
 
 }
