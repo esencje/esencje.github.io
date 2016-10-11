@@ -15,4 +15,7 @@ Autor jest dyplomowanym na Harvardzie psychologiem, nauczycielem i badaczem z za
   <li>
     <a href="/notatki-z-ksiazek/why-dont-students-like-school-2/">Rozdział 2</a>
   </li>
+  <li>
+    <a href="/notatki-z-ksiazek/why-dont-students-like-school-3/">Rozdział 3</a>
+  </li>
 </ul>
