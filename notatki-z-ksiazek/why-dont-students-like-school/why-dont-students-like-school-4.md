@@ -44,6 +44,9 @@ Pamiętaj o tym również podczas konstruowania testów - jeśli będziesz pyta�
 brak
 
 #### Bardziej techniczna:<br>
+Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical reasoning. Journal of Educational Psychology, 95, 393-405. Dedre Gentner has been champion of the idea of improving transfer by asking students to compare different examples.<br>
+Holyoak, K. J. (2005).Analogy. In K. J. Holyoak & R. G. Morrison (Eds.), The Cambridge handbook of thinking and reasoning (pp. 117-142). Cambridge, UK: Cambridge University Press.An overview of the uses of analogy in understanding new concepts and reasoning.<br>
+Mayer, R. E. (2004). Teaching of subject matter. Annual Review of Psychology, 55, 715-744. A comprehensive overview of specific subject matter domains, with special attention to transfer.
 
 
 
